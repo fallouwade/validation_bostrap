@@ -1,0 +1,7 @@
+/*Nav bar*/
+
+div ul li a:hover {
+	border-bottom: 3px solid #dc3545;
+	transition: all 0.3s ease-in-out 0s !important;
+
+}
