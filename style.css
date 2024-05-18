@@ -9,7 +9,6 @@ div ul li a:hover {
 	transition: all 0.3s ease-in-out 0s !important;
 }
 
-<<<<<<< HEAD
 .niveau1 {
 	margin-top: 100px;
 }
@@ -18,7 +17,7 @@ div ul li a:hover {
 	/* background-color: red; */
 	height: 100% !important;
 	padding: 100px;
-=======
+}
 .sec1{
 	margin-top: 6%;
 	padding-top: 2%;
@@ -66,5 +65,4 @@ div ul li a:hover {
     letter-spacing: 1px;
     font-weight: 400;
     color: #7f7f90;
->>>>>>> origin/main
 }
