@@ -6,6 +6,51 @@ div ul li a:hover {
 
 }
 
-div{
+.sec1{
+	margin-top: 6%;
+	padding-top: 2%;
+}
+.sec1{
+	overflow: hidden;
+	scrollbar-width: none;
+}
+
+.card svg{
+	margin-top: -70px;
+}
+.card-body{
+	margin-top: -40px;
+}
+
+
+.sec1 .card:hover{
+	    transform: scale(1.08) !important;
+	    cursor: pointer !important;
+}
+
+.sec1 h5{
+	font-family: "Amatic SC" !important;
+	font-weight: 400 !important;
 	
+}
+
+.icon{
+	right: 15px;
+	top: 60px;
+	display: none !important;
+	visibility: hidden;
+	
+}
+
+.sec1 .card:hover .icon{
+	
+	visibility: visible;
+	opacity: 0.4;
+}
+
+.sec1 p{
+	    font-size: 13px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: #7f7f90;
 }
