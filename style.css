@@ -6,6 +6,10 @@
 	box-sizing: border-box;
 }
 
+.inter {
+	font-family: 'Inter', sans-serif;
+}
+
 .merriweather {
 	font-family: 'Merriweather', sans-serif;
 }
@@ -46,6 +50,13 @@ div ul li a:hover {
 	background-repeat: no-repeat;
 	background-position: 100%;
 	background-size: cover;
+}
+
+.bg-statistic {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/stats-bg.jpg) center center;
+    background-size: cover;
+	background-attachment: fixed;
+    padding: 100px 0;
 }
 
 .bg-statistic {
