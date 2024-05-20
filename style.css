@@ -1,18 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Inter:wght@100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Redressed&display=swap');
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 /**{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }*/
 =======
+=======
+>>>>>>> refs/remotes/origin/main
 *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
+<<<<<<< HEAD
 >>>>>>> fall_test
+=======
+>>>>>>> refs/remotes/origin/main
 
 .merriweather {
 	font-family: 'Merriweather', sans-serif;
