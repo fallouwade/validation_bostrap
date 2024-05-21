@@ -104,9 +104,9 @@ div ul li a:hover {
 .card svg{
 	margin-top: -70px;
 }
-.card-body{
+/*.card-body{
 	margin-top: -40px;
-}
+}*/
 
 
 .sec1 .card:hover{
@@ -114,7 +114,7 @@ div ul li a:hover {
 	    cursor: pointer !important;
 }
 
-.sec1 h5{
+.sec1 h4{
 	font-family: "Amatic SC" !important;
 	font-weight: 400 !important;
 	
@@ -139,6 +139,20 @@ div ul li a:hover {
     letter-spacing: 1px;
     font-weight: 400;
     color: #7f7f90;
+}
+
+
+
+/*footer*/
+
+footer p{
+	color: gray;
+	font-weight: 400;
+}
+
+footer p{
+	color: gray;
+	font-weight: 400;
 }
 
 
