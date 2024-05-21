@@ -90,6 +90,60 @@ div ul li a:hover {
 	border-bottom: 2px solid #ce1212 !important;
 }
 
+/* image slider */
+.hs {
+	height: 75vh !important;
+}
+
+.car-item {
+	height: 35vh;
+}
+
+.contenu-slider {
+   width: 95% !important;
+}
+
+.profile .image-rea img{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	border: 5px solid white;
+}
+
+.bacc{
+    background-color: #cecece !important;
+    width: 16px !important;
+    height: 1px !important;
+    border-radius: 100% !important;
+}
+
+.carousel-indicators [data-bs-target] {
+    background: red !important;
+}
+
+@media screen and (max-width: 348px) {
+	.hs {
+		height: 200vh !important;
+	}	
+}
+
+@media screen and (max-width: 542px) and (min-width: 349px) {
+	.hs {
+		height: 120vh !important;
+	}	
+}
+
+@media screen and (max-width: 772px) and (min-width: 543px) {
+	.hs {
+		height: 120vh !important;
+	}	
+} 
+
+@media screen and (max-width: 991px) and (min-width: 773px) {
+	.hs {
+		height: 120vh !important;
+	}	
+} 
 
 /* Section */
 .sec1{
@@ -104,9 +158,6 @@ div ul li a:hover {
 .card svg{
 	margin-top: -70px;
 }
-/*.card-body{
-	margin-top: -40px;
-}*/
 
 
 .sec1 .card:hover{
