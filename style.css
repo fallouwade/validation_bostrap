@@ -135,7 +135,13 @@ div ul li a:hover {
 
 @media screen and (max-width: 772px) and (min-width: 543px) {
 	.hs {
-		height: 100vh !important;
+		height: 120vh !important;
+	}	
+} 
+
+@media screen and (max-width: 991px) and (min-width: 773px) {
+	.hs {
+		height: 120vh !important;
 	}	
 } 
 
