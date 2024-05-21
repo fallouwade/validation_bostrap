@@ -67,6 +67,11 @@ div ul li a:hover {
     padding: 100px 0;
 }
 
+.bg-statistic {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/stats-bg.jpg) center center;
+    background-size: cover;
+    padding: 100px 0;
+}
 
 .fs-right-about {
 	font-size: clamp(8px, 6vw, 15px);
@@ -77,6 +82,29 @@ div ul li a:hover {
 	background-color: white !important;
 	color: #ce1212 !important;
 }
+
+.image-menu img {
+	width: 100%;
+}
+
+
+/* navabar menu */
+.nav-menu .nav-link{
+	border-bottom: 2px solid rgba(122, 119, 119, 0.5) !important;
+}
+
+.nav-menu .nav-link:hover {
+	color: #7a7777 !important;
+	border-bottom: 2px solid rgba(122, 119, 119, 0.3	) !important;
+}
+
+.nav-menu .nav-link:active,
+.nav-menu .active {
+	color: #ce1212 !important;
+	border-bottom: 2px solid #ce1212 !important;
+}
+
+
 /* Section */
 .sec1{
 	margin-top: 6%;
