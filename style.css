@@ -145,6 +145,26 @@ div ul li a:hover {
 	}	
 } 
 
+/* Partie Events */
+.bg-slide1 {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/events-1.jpg) center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.bg-slide2 {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/events-2.jpg) center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.bg-slide3 {
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/events-3.jpg) center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+
 /* Section */
 .sec1{
 	margin-top: 6%;
